@@ -19,9 +19,3 @@ Versão web do clássico Subway Surfers, feita para rodar direto no navegador. N
 - Estilo endless runner
 - Interface responsiva
 - Jogável no navegador (desktop e mobile)
-
-## 🧪 Como rodar localmente
-```bash
-git clone https://github.com/seu-usuario/subway-surfers-online.git
-cd subway-surfers-online
-# Abra o index.html no navegador
