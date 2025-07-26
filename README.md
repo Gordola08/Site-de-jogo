@@ -1,20 +1,27 @@
 # 🎮 Subway Surfers Online
 
-Versão web do clássico jogo Subway Surfers, criada para ser jogada diretamente no navegador, sem necessidade de instalação. Com design responsivo, controles simples e jogabilidade divertida, é ideal para quem quer reviver o estilo “endless runner” em qualquer dispositivo.
+Versão web do clássico Subway Surfers, feita para rodar direto no navegador. Nenhuma instalação necessária!
 
-## 🚀 Acesse o jogo
-👉 [Clique aqui para jogar](https://subway-surfers.netlify.app)  
-*(Substitua pelo link real do seu site se for diferente)*
+## 🚀 Jogue Agora
 
-## 🧩 Tecnologias Utilizadas
-- HTML5
-- CSS3
-- JavaScript
+👉 **[Clique aqui para jogar](https://subway-surfers.netlify.app)**  
+*(Funciona em PC e celular!)*
+
+[![Subway Surfers - Clique para Jogar](https://i.imgur.com/Wn8HsS0.png)](https://subway-surfers.netlify.app)
+<!-- Substitua esse link da imagem por um print do seu site! -->
+
+## 🛠️ Tecnologias
+- HTML5 + CSS3 + JavaScript
 - Bootstrap 5.3.3
-- Netlify (deploy)
+- Netlify para deploy
 
 ## 📱 Funcionalidades
-- Jogabilidade fluida no navegador
-- Estilo visual inspirado no Subway Surfers original
-- Layout adaptado para dispositivos móveis
-- Interface moderna e intuitiva
+- Estilo endless runner
+- Interface responsiva
+- Jogável no navegador (desktop e mobile)
+
+## 🧪 Como rodar localmente
+```bash
+git clone https://github.com/seu-usuario/subway-surfers-online.git
+cd subway-surfers-online
+# Abra o index.html no navegador
