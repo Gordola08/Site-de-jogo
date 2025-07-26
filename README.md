@@ -4,10 +4,10 @@ Versão web do clássico Subway Surfers, feita para rodar direto no navegador. N
 
 ## 🚀 Jogue Agora
 
-👉 **[Clique aqui para jogar](https://subway-surfers.netlify.app)**  
+👉 **[Clique aqui para jogar]((https://sitedejogo.netlify.app/))**  
 *(Funciona em PC e celular!)*
 
-[![Subway Surfers - Clique para Jogar](https://i.imgur.com/Wn8HsS0.png)](https://subway-surfers.netlify.app)
+[![Subway Surfers - Clique para Jogar](https://i.imgur.com/Wn8HsS0.png)](https://sitedejogo.netlify.app)
 <!-- Substitua esse link da imagem por um print do seu site! -->
 
 ## 🛠️ Tecnologias
